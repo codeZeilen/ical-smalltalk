@@ -6,4 +6,10 @@ SmalltalkCISpec {
       #platforms : [ #squeak, #pharo, #gemstone ]
     }
   ]
+   #testing : {
+     // Include specific TestCases
+     #include : {
+       #packages : [ 'ICal-Tests' ],
+     },
+  }
 }
