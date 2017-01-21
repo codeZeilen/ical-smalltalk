@@ -9,7 +9,7 @@ SmalltalkCISpec {
    #testing : {
      // Include specific TestCases
      #include : {
-       #packages : [ 'ICal-Tests' ],
+       #categories: [ 'ICal-Tests-*' ],
      },
   }
 }
