@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"DevelopmentSupport" : "PaulDeBruicker 12/12/2012 17:20",
+		"baseConfigurationClassIfAbsent:" : "PaulDeBruicker 12/12/2012 17:20",
+		"ensureMetacello" : "PaulDeBruicker 12/12/2012 17:20",
+		"ensureMetacelloBaseConfiguration" : "PaulDeBruicker 12/12/2012 17:20",
+		"isMetacelloConfig" : "PaulDeBruicker 12/12/2012 17:20",
+		"load" : "PaulDeBruicker 12/12/2012 17:20",
+		"loadBleedingEdge" : "PaulDeBruicker 12/12/2012 17:20",
+		"loadDevelopment" : "PaulDeBruicker 12/12/2012 17:20",
+		"project" : "PaulDeBruicker 12/12/2012 17:20",
+		"validate" : "PaulDeBruicker 12/12/2012 17:20" },
+	"instance" : {
+		"baseline10:" : "PaulDeBruicker 1/23/2013 17:16",
+		"baseline11:" : "PaulDeBruicker 02/22/2013 08:43",
+		"baselineScript" : "PaulDeBruicker 12/12/2012 17:22",
+		"copyConfigToMetacelloRepoOnSqueakSourceScript" : "PaulDeBruicker 12/12/2012 17:28",
+		"createReleaseScript" : "PaulDeBruicker 12/12/2012 17:26",
+		"customProjectAttributes" : "PaulDeBruicker 12/12/2012 17:20",
+		"development:" : "PaulDeBruicker 12/12/2012 17:26",
+		"developmentVersionScript" : "PaulDeBruicker 12/12/2012 17:23",
+		"project" : "PaulDeBruicker 12/12/2012 17:20",
+		"stable:" : "YanniChiu 1/25/2013 01:06",
+		"uploadConfigScript" : "PaulDeBruicker 12/12/2012 17:26",
+		"validateConfigScript" : "PaulDeBruicker 12/12/2012 17:23",
+		"version10:" : "PaulDeBruicker 2/10/2013 21:17",
+		"version11:" : "PaulDeBruicker 02/22/2013 10:30" } }

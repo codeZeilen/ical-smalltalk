@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"dailyRrule" : "PaulDeBruicker 12/17/2012 09:41",
+		"testBetweenAndDoGivesErrorForInfiniteSchedule" : "pre 1/20/2017 22:09",
+		"testDatesBetweenAndGivesDatesBetweenStartAndEndOnly" : "PaulDeBruicker 2/20/2013 22:00",
+		"testGetScheduleFromEvent" : "PaulDeBruicker 12/11/2012 17:24" } }
