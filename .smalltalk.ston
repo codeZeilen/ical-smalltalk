@@ -1,0 +1,9 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #configuration: 'ConfigurationOfICal',
+      #directory : 'repository',
+      #platforms : [ #squeak, #pharo, #gemstone ]
+    }
+  ]
+}
