@@ -3,13 +3,14 @@ SmalltalkCISpec {
     SCIMetacelloLoadSpec {
       #configuration: 'ICal',
       #directory : 'repository',
-      #platforms : [ #squeak, #pharo, #gemstone ]
+      #platforms : [ #squeak, #pharo, #gemstone ],
+      #load : ['Tests'],
+      #version : #bleedingEdge
     }
-  ]
-   #testing : {
-     // Include specific TestCases
-     #include : {
-       #categories: [ 'ICal-Tests-*' ],
-     },
+  ],
+  #testing : {
+    #include : {
+      #categories: [ 'ICal-Tests-*' ]
+    }
   }
 }
