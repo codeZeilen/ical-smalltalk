@@ -1,6 +1,6 @@
 baselines
-baseline11: spec
-	<version: '1.1-baseline'>
+baseline12: spec
+	<version: '1.2-baseline'>
 	spec
 		for: #common
 		do: [ 
@@ -31,7 +31,7 @@ baseline11: spec
 							spec
 								className: 'ConfigurationOfCommandShell';
 								loads:'Piping';
-								versionString: '1.0';
+								versionString: '1.0-baseline';
 								file: 'ConfigurationOfCommandShell';
 								repository: 'http://www.squeaksource.com/MetacelloRepository' ].
 							spec package:'ICal-Core' with:[spec requires:#('CommandShell')]].
